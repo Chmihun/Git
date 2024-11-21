@@ -6,5 +6,7 @@ public class Main {
         System.out.println("OK---");
         System.out.println(100);
 
+
+        System.out.println("102");
     }
 }
